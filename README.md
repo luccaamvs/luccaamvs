@@ -1,4 +1,5 @@
 ## Olá, sou Lucca Bordin e seja bem-vindo(a) ao meu Git.
+Estudante de Front-End e Design, também me aventuro em escrita criativa quando não estou entrevistando pessoas no meu podcast. :)
 <div align="center">
   <a href="https://github.com/luccaamvs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luccaamvs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -11,7 +12,7 @@
   <img align="center" alt="Lucca-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Lucca-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lucca-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Lucca-pic" height="150" style="border-radius:50px;" src="https://media-exp1.licdn.com/dms/image/C4E03AQFnKP2Qh5GL4w/profile-displayphoto-shrink_800_800/0/1660164828059?e=1666224000&v=beta&t=udyltkWMQjLh0oyCxImIoNtj6dRMu38PQRLmcMEVVgI">
+  <img align="right" alt="Lucca-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/350319974444957698/1008273741861617684/lucca-chibi.png">
 </div>
   
   ##
