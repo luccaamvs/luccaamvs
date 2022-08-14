@@ -4,6 +4,7 @@ Estudante de Front-End e Design, também me aventuro em escrita criativa quando 
   <a href="https://github.com/luccaamvs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luccaamvs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccaamvs&layout=compact&langs_count=7&theme=dracula"/>
+  <img align="right" alt="Lucca-pic" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/350319974444957698/1008273741861617684/lucca-chibi.png">
 </div>
 
 <div style="display: inline_block"><br>
@@ -12,7 +13,6 @@ Estudante de Front-End e Design, também me aventuro em escrita criativa quando 
   <img align="center" alt="Lucca-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Lucca-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lucca-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Lucca-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/350319974444957698/1008273741861617684/lucca-chibi.png">
 </div>
   
   ##
