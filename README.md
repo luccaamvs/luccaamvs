@@ -17,6 +17,8 @@ Estudante de Front-End e Design, também me aventuro em escrita criativa quando 
   <img align="center" alt="Lucca-bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Lucca-figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 </div>
+  <img align="center" alt="Lucca-Renpy" height="30" width="40" src="https://www.renpy.org/static/index-logo.png">
+</div>
   
   ##
  
