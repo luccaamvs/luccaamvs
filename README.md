@@ -16,7 +16,9 @@ Estudante de Front-End e Design, também me aventuro em escrita criativa quando 
   <img align="center" alt="Lucca-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lucca-bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Lucca-figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-  <img align="center" alt="Lucca-Renpy" height="30" width="30" src="https://www.renpy.org/static/index-logo.png">
+  <img align="center" alt="Lucca-laravel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg">
+    <img align="center" alt="Lucca-angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg">
+  <img align="center" alt="Lucca-Renpy" height="30" width="20" src="https://www.renpy.org/static/index-logo.png">
 </div>
 
 
