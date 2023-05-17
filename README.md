@@ -1,8 +1,6 @@
 ## Olá, sou Lucca Bordin e seja bem-vindo(a) ao meu Git.
 Estudante de Front-End e Design, também me aventuro em escrita criativa quando não estou entrevistando pessoas no meu podcast. :)
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luccaamvs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccaamvs&layout=compact&langs_count=7&theme=dracula"/>
   <img align="right" alt="Lucca-pic" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/350319974444957698/1008273741861617684/lucca-chibi.png">
 </div>
 <div style="display: inline_block"><br>
@@ -19,7 +17,6 @@ Estudante de Front-End e Design, também me aventuro em escrita criativa quando 
   <img align="center" alt="Lucca-flutter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg">
   <img align="center" alt="Lucca-renpy" height="30" width="20" src="https://www.renpy.org/static/index-logo.png">
 </div>
-  ##
 <div> 
  <a href="https://youtu.be/qq25lQLCuiM" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
  <a href="https://instagram.com/lucca.brd" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
