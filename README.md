@@ -1,8 +1,6 @@
 ## Olá, sou Lucca Bordin e seja bem-vindo(a) ao meu Git.
 Estudante de Front-End e Design, também me aventuro em escrita criativa quando não estou entrevistando pessoas no meu podcast. :)
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luccaamvs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccaamvs&layout=compact&langs_count=7&theme=dracula"/>
   <img align="right" alt="Lucca-pic" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/350319974444957698/1008273741861617684/lucca-chibi.png">
 </div>
 
