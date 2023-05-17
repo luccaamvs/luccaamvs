@@ -16,7 +16,7 @@ Estudante de Front-End e Design, também me aventuro em escrita criativa quando 
   <img align="center" alt="Lucca-angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg">
   <img align="center" alt="Lucca-flutter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg">
   <img align="center" alt="Lucca-renpy" height="30" width="20" src="https://www.renpy.org/static/index-logo.png">
-</div>
+</div> <br>
 <div> 
  <a href="https://youtu.be/qq25lQLCuiM" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
  <a href="https://instagram.com/lucca.brd" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
